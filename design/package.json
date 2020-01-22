@@ -1,0 +1,16 @@
+{
+  "name": "@monorepo/design",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/react": "^16.9.18",
+    "@types/react-dom": "^16.9.5",
+    "@types/styled-components": "^4.4.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-components": "^5.0.0",
+    "typescript": "^3.7.5"
+  }
+}
